@@ -1,1 +1,1 @@
-# Hash_tables
+# Hash tables
